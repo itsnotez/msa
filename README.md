@@ -13,3 +13,7 @@
 - git add
 - git commit
 - git pull
+
+3. VM, Provisioning tool 실습
+- VirtualBox (https://www.virtualbox.org/wiki/Downloads)
+- Vagrant (https://www.vagrantup.com/downloads.html)
